@@ -1,7 +1,7 @@
 body {
 	padding:0;
 	margin:0;
-    background-color: #32c9d6;
+	background-color: #32c9d6;
 }
  
 #ball {
@@ -10,6 +10,6 @@ body {
 	position:absolute;
 	width:100px;
 	height:100px;
-	border-radius: 0%;
+	border-radius: 50%;
 	background: white;
 }
